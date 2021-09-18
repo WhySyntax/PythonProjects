@@ -1,0 +1,29 @@
+Name: Kabir
+Age: 13
+Grade: 7
+Teacher: Mr. Freiboth
+---------- 
+Name: Rahul
+Age: 13
+Grade: 7
+Teacher: Mr. Norse
+----------
+Name: Sophiya
+Age: 12
+Grade: 7
+Teacher: Unknown
+----------
+Name: Nickhil
+Age: 12
+Grade: 6
+Teacher: Unknown
+----------
+Name: Aarya
+Age: 13
+Grade: 7
+Teacher: Unknown
+----------
+Name: Yash
+Age: 13
+Grade: 8
+Teacher: Unknown
